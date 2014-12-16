@@ -1,0 +1,13 @@
+103ad70567dffe5a2ea688d67e04d6ef *DESCRIPTION
+8cc0f0c23b6bcdf4a9de54d736c30803 *LICENSE
+d7e7bf7c4c44929c79447680e531edcb *NAMESPACE
+e403c22d4f520c50397ffe043568de82 *R/admin1.R
+8ddb288b29bd4442cf062e29d4c32571 *data/admin1.map.rdata
+c592644030ceb43a92913d2d440974c8 *data/admin1.regions.rdata
+6ac1a7458769960fe6bb55a5579d1048 *data/datalist
+d2df2cb26837d3763ab392c265aaa7cb *man/admin1.map.Rd
+de4bb7b4b797328184601906f2cd7109 *man/admin1.regions.Rd
+ee5abd879108031be513c591ebe369f7 *man/admin1_map.Rd
+50ac5e15c9c959a57043aac146f7c774 *man/get_admin1_countries.Rd
+bd547afeb499e336240f223feaef6efe *man/get_admin1_map.Rd
+b6a28b942ee13fff573086d9d09dcb0f *man/get_admin1_regions.Rd

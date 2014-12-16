@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: choroplethrAdmin1\nType: Package\nTitle: Contains an Administrative-Level-1 Map of the World\nVersion: 1.0.0\nDate: 2014-12-02\nAuthor: Ari Lamstein <arilamstein@gmail.com>\nMaintainer: Ari Lamstein <arilamstein@gmail.com>\nDescription: Contains an administrative-level-1 map of the world.\n    Administrative-level-1 is the generic term for the largest sub-national\n    subdivision of a country. This package was created for use with the\n    choroplethr package.\nLicense: BSD_3_clause + file LICENSE\nURL: https://groups.google.com/forum/#!forum/choroplethr\nImports: ggplot2\nPackaged: 2014-12-02 11:47:09 UTC; arilamstein\nNeedsCompilation: no\nRepository: CRAN\nDate/Publication: 2014-12-02 14:30:53\n",
+    "created" : 1418759222978.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2166032854",
+    "id" : "365D572E",
+    "lastKnownWriteTime" : 1417527053,
+    "path" : "~/code/R/choroplethrAdmin1/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}
